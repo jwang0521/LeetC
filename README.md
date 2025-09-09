@@ -5,7 +5,7 @@ I use this repo to practice **Data Structures & Algorithms (DSA)**, improve prob
 Each problem is organized in its own folder, containing:  
 
 - 📄 `README.md` → Problem prompt from leetcode 
-- 💻 solution → My implementation  
+- 💻 `solution.py` → My implementation  
 
 
 ## 🛠️ Languages
